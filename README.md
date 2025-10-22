@@ -1,9 +1,3 @@
-Perfect — here’s your polished, copy-ready **README.md**.
-It keeps the structure clean but adds a chill dev-vibe, so anyone reading it (recruiter or collaborator) gets that you actually *built* this to sharpen your backend chops.
-
-Just copy everything below and paste it straight into your repo 👇
-
----
 
 ```markdown
 # 🎓 Course Selling App (Backend)
